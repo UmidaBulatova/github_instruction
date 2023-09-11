@@ -39,3 +39,8 @@ ___
 
 ## Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+[ссылка на канал] (https://github.com/oleggolen/Seminar-13-12-2021#readme)
+
+![ссылка на канал](git.pic)
+
