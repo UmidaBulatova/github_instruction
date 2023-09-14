@@ -51,5 +51,5 @@ ___
 
 [ссылка на канал] (https://github.com/oleggolen/Seminar-13-12-2021#readme)
 
-![ссылка на канал](git.pic)
+![ссылка на канал](фото.png)
 
